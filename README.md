@@ -44,7 +44,6 @@ Ferramentas usadas na construção do projeto:
 
 <h2 id="pendente">:construction: Em desenvolvimento</h2>
 
-- [ ] Responsividade;
 - [ ] Filtragem por gênero de filmes;
 - [ ] Incluir loading nas requisições;
 - [ ] Resolver alguns bugs.
