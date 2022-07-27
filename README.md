@@ -21,7 +21,7 @@
 </p>
 
 <h2 id="link">:link: Link Surge - link para visualização do site</h2>
- <a href="https://tmdb-app.surge.sh/">The Movie DB</a>
+ <a href="https://promobit-app.surge.sh/">The Movie DB</a>
 
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
